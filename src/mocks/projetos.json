@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "imagem": "/assets/project1.jpg",
+    "alt": "foto de um quarto com uma cama, plantas decorando"
+  },
+  {
+    "id": 2,
+    "imagem": "/assets/project2.jpg",
+    "alt": "foto de um quarto com uma cama, um aparador e um espelho"
+  },
+  {
+    "id": 3,
+    "imagem": "/assets/project3.jpg",
+    "alt": "foto de um quarto com uma cama, plantas decorando"
+  },
+  {
+    "id": 4,
+    "imagem": "/assets/project4.jpg",
+    "alt": "foto de um quarto clean com uma cama, plantas decorando e quadros pendurados acima da cama"
+  }
+]

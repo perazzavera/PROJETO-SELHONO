@@ -1,0 +1,58 @@
+.container {
+  padding: 10em 0;
+}
+
+.container h4 {
+  padding: 0 9.5em;
+  text-align: center;
+  padding-bottom: 4em;
+  font-weight: 400;
+  line-height: 150%;
+  font-size: 22px;
+}
+
+.container h2 {
+  font-family: var(--fonte-secundaria);
+  font-size: 60px;
+  line-height: 125%;
+  text-align: center;
+}
+
+.container h5 {
+  font-size: 35px;
+  font-family: var(--fonte-secundaria);
+  line-height: 125%;
+}
+
+.container p {
+  font-size: 22px;
+  color: var(--preto-secundario);
+  line-height: 150%;
+  max-width: 456px;
+}
+
+.container h3 {
+  font-size: 90px;
+  font-family: var(--fonte-secundaria);
+  line-height: 150%;
+  color: var(--marrom-secundario);
+}
+
+.alinhaDireita {
+  text-align: right;
+}
+
+.alinhaEsquerda {
+  text-align: left;
+}
+
+.conteudo {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.container span {
+  padding-bottom: 4em;
+}

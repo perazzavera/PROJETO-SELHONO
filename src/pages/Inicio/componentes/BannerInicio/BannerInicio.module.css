@@ -1,0 +1,32 @@
+.container {
+  height: 758px;
+  width: 100%;
+  background-image: url("/assets/banner-intro.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius: 100px 0 100px 0;
+}
+
+.container h2 {
+  font-size: 65px;
+  font-weight: 400;
+  font-family: var(--fonte-secundaria);
+}
+
+.container p {
+  font-family: var(--fonte-terciaria);
+  font-size: 22px;
+}
+
+.vidro {
+  --bs-bg-opacity: 0.3;
+  border-radius: 100px 0 100px 0;
+  backdrop-filter: blur(4px);
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.vidro[data-aos="fade-up"].aos-animate {
+  opacity: 1; /* Torna visível quando o efeito for ativado */
+  transform: translateY(0); /* Move para a posição original */
+}

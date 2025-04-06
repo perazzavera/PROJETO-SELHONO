@@ -1,0 +1,39 @@
+.container {
+  padding: 5em 0;
+}
+
+.container h6 {
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 150%;
+  padding-bottom: 1em;
+}
+
+.item {
+  text-align: center;
+  padding: 2em 1em;
+  border-radius: 20px;
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.item:hover {
+  background-color: var(--cinza);
+  color: var(--marrom-secundario);
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: var(--preto-secundario);
+  justify-content: center;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 125%;
+  cursor: pointer;
+  transition: color 0.3s ease-in-out;
+}
+
+.link:hover {
+  color: var(--marrom-secundario);
+}

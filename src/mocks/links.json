@@ -1,0 +1,16 @@
+{
+  "pages": [
+    { "nome": "About Us", "url": "/about" },
+    { "nome": "Our Projects", "url": "/projects" },
+    { "nome": "Our Team", "url": "/team" },
+    { "nome": "Contact Us", "url": "/contact" },
+    { "nome": "Services", "url": "/services" }
+  ],
+  "services": [
+    { "nome": "Kitchan", "url": "/kitchan" },
+    { "nome": "Living Area", "url": "/living-area" },
+    { "nome": "Bathroom", "url": "/bathroom" },
+    { "nome": "Dinning Hall", "url": "/dinning-hall" },
+    { "nome": "Bedroom", "url": "/bedroom" }
+  ]
+}

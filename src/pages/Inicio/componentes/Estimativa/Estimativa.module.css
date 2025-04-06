@@ -1,0 +1,60 @@
+.container {
+  height: 700px;
+  display: flex;
+}
+
+.container h2 {
+  font-family: var(--fonte-secundaria);
+  font-size: 55px;
+}
+
+.conteudo {
+  width: 653px;
+  height: 700px;
+  background-image: url("/assets/banner-modern.png");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.info {
+  color: var(--branco);
+  padding-top: 142px;
+  padding-left: 25px;
+}
+
+.imagem {
+  width: 660px;
+  height: 700px;
+  background-image: url("/assets/banner-modern2.png");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.conteudo h6 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 150%;
+  margin: 0;
+}
+
+.conteudo p {
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 150%;
+  margin: 0;
+  font-family: var(--fonte-principal);
+}
+
+.contato {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  padding: 1.5em 0 2em 0;
+}
+
+.icone {
+  color: var(--marrom-principal);
+  background-color: var(--branco);
+  padding: 0.8em 1em;
+  border-radius: 50%;
+}

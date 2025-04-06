@@ -1,0 +1,12 @@
+.botao {
+  background-color: var(--marrom-principal);
+  color: var(--branco);
+  padding: 0.8em 2em;
+  transition: background-color 0.3s ease-in-out;
+  font-family: var(--fonte-terciaria);
+  font-weight: 500;
+}
+
+.botao:hover {
+  background-color: var(--marrom-secundario); /* ou o que preferir */
+}

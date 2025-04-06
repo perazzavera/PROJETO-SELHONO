@@ -1,0 +1,28 @@
+.container {
+  margin: 0 200px;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--preto-secundario);
+  line-height: 300%;
+  font-size: 22px;
+}
+
+.contato {
+  max-width: 258px;
+}
+
+.brandInfo {
+  max-width: 393px;
+}
+
+.sociais p {
+  font-size: 22px;
+  line-height: 150%;
+}
+
+.principal {
+  display: flex;
+  justify-content: space-between;
+}

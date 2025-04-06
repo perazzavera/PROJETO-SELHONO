@@ -1,0 +1,6 @@
+.container {
+  margin: 0 200px;
+}
+.container h1 {
+  color: var(--preto-principal);
+}

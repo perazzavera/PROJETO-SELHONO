@@ -1,0 +1,9 @@
+.customSearchInput {
+  top: 100%; /* aparece logo abaixo do ícone */
+  right: 10%;
+  margin-top: 0.5rem;
+  width: 200px;
+  z-index: 10;
+  transition: all 0.3s ease;
+  border-radius: 8px;
+}

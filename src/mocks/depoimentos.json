@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "imagem": "/assets/people-natasha.png",
+    "nome": "Natasha",
+    "lugar": "Moscow, Russia",
+    "texto": "Lorem Ipsum is simply dummy text of the typesetting industry. Ipsum has been."
+  },
+  {
+    "id": 2,
+    "imagem": "/assets/people-raymond.png",
+    "nome": "Raymond Galario",
+    "lugar": "UK, London",
+    "texto": "Lorem Ipsum is simply dummy text of the typesetting industry. Ipsum has been."
+  },
+  {
+    "id": 3,
+    "imagem": "/assets/people-benny.png",
+    "nome": "Benny Roll",
+    "lugar": "USA, New York",
+    "texto": "Lorem Ipsum is simply dummy text of the typesetting industry. Ipsum has been."
+  }
+]

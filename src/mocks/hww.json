@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "imagem": "/assets/hww-1.png",
+    "numero": "01",
+    "titulo": "Concept & Details",
+    "texto": "It is a long established fact  will be distracted. Lorem Ipsum is simply dummy from text of the and typesetting indufstry."
+  },
+  {
+    "id": 2,
+    "imagem": "/assets/hww-2.png",
+    "numero": "02",
+    "titulo": "Idea for Work",
+    "texto": "It is a long established fact  will be distracted. Lorem Ipsum is simply dummy from text of the and typesetting indufstry."
+  },
+  {
+    "id": 3,
+    "imagem": "/assets/hww-3.png",
+    "numero": "03",
+    "titulo": "Design",
+    "texto": "It is a long established fact  will be distracted. Lorem Ipsum is simply dummy from text of the and typesetting indufstry."
+  },
+  {
+    "id": 4,
+    "imagem": "/assets/hww-4.png",
+    "numero": "04",
+    "titulo": "Perfection",
+    "texto": "It is a long established fact  will be distracted. Lorem Ipsum is simply dummy from text of the and typesetting indufstry."
+  }
+]
